@@ -63,9 +63,9 @@ SBD初衷是设计来1：1兑换美元的，官方现在也是把1SBD固定视�
 
 作者在发文章之后，按照Steemit的规则，7日后文章将被锁定而且无法修改(区块链永久不可篡改性)，同时进行该帖的结算，并根据作者发帖时的设定进行Steem和SBD的奖励。如果作者选择50% 50%，系统会将奖励分为两部分，一部分作为SBD奖励，另一部分作为SP奖励；如果作者选择发帖时power up 100%，则系统将会将奖励全部按照SP进行power up。当然你也可以通过交易所或其它货币持有者交易来获得这些货币。
 
-### 帖子收益的计算方式
+### 帖子收益的计算方式 ^[作者：\@ericet；原文链接：https://steemit.com/cn/@ericet/35f52g]{#how-to-calculate-reward}
 
-帖子计算的公式 ^[作者：\@ericet；原文链接：https://steemit.com/cn/@ericet/35f52g]{#how-to-calculate-reward}
+帖子计算的公式 
 ![](https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/DQmQzJrSMkdMiwXXih35wfYwZVAjtf2aqqDW23MauhchK6G/image.png)
 
 ![](https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/DQmeg1KkdmzzCHjB3FHKT5KEjGkGu7kzCbxsNL9TgFMjAkZ/image.png)
